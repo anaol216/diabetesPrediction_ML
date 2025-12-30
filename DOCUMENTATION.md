@@ -1,5 +1,5 @@
-# COLLAGE NATURAL AND COMPUTATIONAL SCIENCE
-# SCHOOL OF INFORMATION SCIENCE
+## COLLAGE NATURAL AND COMPUTATIONAL SCIENCE
+## SCHOOL OF INFORMATION SCIENCE
 
 **Title:** Optimal Route Finding for Taxi Services in Addis Ababa  
 *(Applied Research: Diabetes Severity Classification Framework)*
@@ -14,6 +14,7 @@
 | 5. | Nuniyat Getamesay | UGR/4059/15 |
 | 6. | Rediet Mulugeta | UGR/4053/15 |
 
+**Submitted-to:** Birhane S.
 **Semester-Year:** 01/02 - 2025/26  
 **Submission Date:** 26/12/2025
 
